@@ -2,4 +2,4 @@
 
 Hey there. 👋
 
-This is the home for Awetomaton. For now we are using Github for internal projects and to host our website.
+This is the home for Awetomaton. For now we are using Github for internal projects and hosting our website.
